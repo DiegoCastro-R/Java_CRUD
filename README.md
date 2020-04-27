@@ -1,2 +1,2 @@
 # Java_CRUD
-Simple Java OO CRUD with MySQL and Hibernate
+Simple Example Java OO CRUD with MySQL and Hibernate
